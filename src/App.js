@@ -4,6 +4,7 @@ import HomeIndex from "./Pages/HomePage/HomeIndex";
 import ServicesIndex from "./Pages/ServicesPage/ServicesIndex";
 import ContactIndex from "./Pages/ContactPage/ContactIndex";
 import Navbar from './Components/Navbar/Navbar';
+import FooterImdex from './Components/Navbar/FooterComponent/FooterImdex';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path='/contact' element={<ContactIndex/>}/>
           {/* <Route path='*' element={<Error/>}/> */}
         </Routes>
+        <FooterImdex/>
       </BrowserRouter>
     </div>
   );

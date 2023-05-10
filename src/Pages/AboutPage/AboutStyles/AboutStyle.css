@@ -1,0 +1,25 @@
+.header-1{
+    font-size: 70px;
+    font-weight: 600;
+    color: #fff;
+}
+.header-2{
+    font-size: 55px;
+    font-weight: 600;
+    color: #fff;
+}
+.header-3{
+    font-size: 55px;
+    font-weight: 600;
+    color: #fff;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.AboutSection1{
+    width: 100%;
+    height: 100vh;
+    background-color: red;
+}
