@@ -2,7 +2,7 @@ import React from 'react'
 import FooterSec1 from './FooterSec1'
 import FooterSec2 from './FooterSec2'
 
-const FooterImdex = () => {
+const FooterIndex = () => {
   return (
     <div>
         <FooterSec1/>
@@ -11,4 +11,4 @@ const FooterImdex = () => {
   )
 }
 
-export default FooterImdex
+export default FooterIndex

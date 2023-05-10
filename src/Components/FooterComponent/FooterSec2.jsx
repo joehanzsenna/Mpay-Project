@@ -1,5 +1,5 @@
 import React from 'react'
-import MpayLogo from '../../../Assets/HomePageAssets/MPAY LOGO.svg'
+import MpayLogo from '../../Assets/HomePageAssets/MPAY LOGO.svg'
 
 const FooterSec2 = () => {
   return (
