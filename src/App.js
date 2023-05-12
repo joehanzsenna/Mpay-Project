@@ -5,6 +5,7 @@ import ServicesIndex from "./Pages/ServicesPage/ServicesIndex";
 import ContactIndex from "./Pages/ContactPage/ContactIndex";
 import Navbar from './Components/Navbar/Navbar';
 import FooterIndex from './Components/FooterComponent/FooterIndex';
+import './Styles/GeneralStyle.css'
 
 function App() {
   return (
