@@ -3,3 +3,115 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/* FooterSec1 css part  */
+
+.FooterSec1{
+    width: 100%;
+    max-width: 1400px;
+    
+}
+.FooterSec1-contents{
+    width: 85%;
+    margin: 0 auto;
+    background-color:#7D72FF;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+    padding: 6rem 13rem;
+    border-radius: 20px;
+    position: relative;
+}
+.FooterSec1-header{
+
+}
+.FooterSec1-form{
+    /* width: 40rem; */
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    /* background-color: red; */
+    box-sizing: border-box;
+    align-self: center;
+}
+.FooterSec1-form__input{
+    width: 38rem;
+    padding: 2rem 5rem 2rem 3rem;
+    border-radius: 3rem;
+    border: none;
+    margin-left: 11rem;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #000;
+    outline: none;
+}
+.FooterSec1-form__input::placeholder{
+    color: #7D72FF;
+    font-weight: 500;
+}
+.FooterSec1-form__input-sub{
+    width: 15rem;
+    position: absolute;
+    right: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #7D72FF;
+    border: none;
+    padding: 1.6rem 0;
+    border-radius: 3rem;
+}
+.spiralImg{
+    position: absolute;
+    width: 20%;
+    color: white;
+    right: 0;
+}
+
+/* FooterSec2 css part  */
+.FooterSec2{
+    width: 100%;
+    margin-top: 15rem;
+    /* text-align: center; */
+}
+.FooterSec2-contents{
+    width: 80%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    margin-bottom: 5rem;
+    padding-bottom: 5rem;
+    border-bottom: .1rem solid grey;
+}
+.FooterSec2-contents li {
+    list-style-type: none;
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+    color: rgba(255, 255, 255, 0.603);
+}
+.firstItem{
+    grid-area: 1/1/ span 2 / span 2;
+}
+.FooterSec2--header1{
+    color: #7D72FF;
+    margin-bottom: 2rem;
+}
+.FooterSec2-contents--2{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+.FooterSec2-contents--2 h6{
+    color: rgba(97, 94, 94, 0.603);
+
+}
+.footerSec2-icons{
+    margin-top: 2rem;
+}
+.footerSec2-icon{
+    font-size: 2rem;
+    margin-right: 1rem;
+}

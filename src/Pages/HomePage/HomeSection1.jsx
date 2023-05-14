@@ -14,8 +14,8 @@ const HomeSection1 = () => {
         <div className='HomeSection1-contents'>
           <div className='HomeSection1-contents--1'>
             <h1 className='header--1'><span className='fastestColor'>FASTEST</span> PAYMENT <br /> METHOD EVER</h1>
-            <p className='text-1'>Massa cursus cum in at tincidunt nisl id nisl. In ac viverra quis massa in pharetra praesent. Nisl in torto bgbdsudhg  hdhjdkj</p>
-            <button className='btn--1'>Learn More</button>
+            <p className='text--1'>Massa cursus cum in at tincidunt nisl id nisl. In ac viverra quis massa in pharetra praesent. Nisl in torto bgbdsudhg  hdhjdkj</p>
+            <button className='btn--2'>LEARN MORE</button>
           </div>
           <div>
             <div className='HomeSection1-contents--2'>

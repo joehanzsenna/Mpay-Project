@@ -1,4 +1,5 @@
 import React from 'react'
+import '../../Components/FooterComponent/FooterStyle.css'
 import FooterSec1 from './FooterSec1'
 import FooterSec2 from './FooterSec2'
 

@@ -4,29 +4,48 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Inter', sans-serif;
+    /* font-size: 62.7%; */
+}
+html{
+    font-size: 55.5%;
 }
 
 .header--1{
-    font-size: 3.5rem;
     font-weight: 500;
     letter-spacing: 2px;
     line-height: 70px;
+    margin-bottom: 2rem;
     /* font-size: 60px; */
+    font-size: 6rem;
+}
+body{
+    font-size: 16px;
+    background: #151518;
 }
 .header--2{
-
+font-size: 40px;
+font-weight: 500;
 }
 .header--3{
-
+    font-size: 15px;
+    font-weight: 500;
+    color: #7D72FF;
 }
 .header--4{
-
+    font-size: 13px;
+    font-weight: 500;
+    color: #7D72FF;
 }
 .text--1{
-    
+    color:  #ffffff6d;
+    font-size: 13px;
+    /* margin-bottom: 2rem; */
 }
 .text--2{
-
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 2rem;
+    letter-spacing: .1rem;
+    word-spacing: .2rem;
 }
 .text--3{
 
@@ -34,15 +53,30 @@
 .text--4{
 
 }
-.Btn--1{
+.btn--1{
+    padding: 10px 25px;
+    border: none;
+    border-radius: 20px;
+    background: #7D72FF;
+    color: #fff;
+    font-size: ;
+}
+.btn--2{
+    /* padding: 18px 35px; */
+    border: none;
+    border-radius: 20px;
+    background: #7D72FF;
+    color: #fff;
+    font-size: 14px;
+    width: 180px;
+    height: 60px;
+}
+.btn--3{
     
 }
-.Btn--2{
+.btn--4{
     
 }
-.Btn--3{
-    
-}
-.Btn--4{
-    
+.m-bottom1{
+    margin-bottom: 2rem
 }
