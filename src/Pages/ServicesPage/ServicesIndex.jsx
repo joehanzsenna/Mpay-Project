@@ -8,6 +8,7 @@ import ServicesSec5 from './ServicesSec5'
 import ServicesSec6 from './ServicesSec6'
 import ServicesSec7 from './ServicesSec7'
 import ServicesSec8 from './ServicesSec8'
+import PaymentIndex from '../../Components/PaymentComponent/PaymentIndex'
 
 const ServicesIndex = () => {
   return (
@@ -15,6 +16,7 @@ const ServicesIndex = () => {
         <ServicesSec1/>
         <ServicesSec2/>
         <ServicesSec3/>
+        <PaymentIndex/>
         <ServicesSec4/>
         <ServicesSec5/>
         <ServicesSec6/>

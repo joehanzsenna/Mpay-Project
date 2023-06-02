@@ -7,6 +7,7 @@ import AboutSection4 from './AboutSection4'
 import AboutSection5 from './AboutSection5'
 import AboutSection6 from './AboutSection6'
 import AboutSection7 from './AboutSection7'
+import PaymentIndex from '../../Components/PaymentComponent/PaymentIndex'
 
 const AboutIndex = () => {
   return (
@@ -14,6 +15,7 @@ const AboutIndex = () => {
         <AboutSection1/>
         <AboutSection2/>
         <AboutSection3/>
+        <PaymentIndex/>
         <AboutSection4/>
         <AboutSection5/>
         <AboutSection6/>

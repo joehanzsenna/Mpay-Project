@@ -8,12 +8,12 @@
     width: 100%;
     padding: 10px 0;
     text-align: center;
-    background-color: #27273b;
+    background: #151518;
     color: #fff;
 }
 
 .navBarContents{
-    width: 90%;
+    width: 85%;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
@@ -27,14 +27,15 @@
     align-items: center;
     font-size: 16px;
 }
-.btn--1{
-    
-
-}
 .linkStyle{
     text-decoration: none;
     color: #fff;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+.menuList li .linkStyle:hover{
+    
 }
 .mpayLogo{
-    width: 78px;
+    width: 12rem;
 }

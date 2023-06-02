@@ -17,7 +17,7 @@ const HomeSection2 = () => {
                 <img src={imgIphone} alt="" id='iphone'/>
             </div>
             <div className='HomeSection2-contents__2'>
-                <h1 className='header--2 m-buttom1'>Manage Everything in Your  Hand</h1>
+                <h1 className='header--2 m-bottom1'>Manage Everything in Your  Hand</h1>
                 <p className='text--1'>Augue nulla turpis consectetur pharetra fames. Fermentum rhoncus lectus condimentum augue. Faucibus a ac urna tellus purus. Ornare tellus vitae elit est tellus porta malesuada ut arcu.</p>
                 <div className='HomeSection2-inner'>
                     <div className='HomeSection2-innerContent'>

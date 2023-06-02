@@ -7,7 +7,7 @@ import { IoIosAppstore } from 'react-icons/io';
 import { BsTwitter } from 'react-icons/bs';
 import { FaFacebookF } from 'react-icons/fa';
 import { ImLinkedin2 } from 'react-icons/im';
-import { FcBookmark} from 'react-icons/fc';
+import { SiInstagram} from 'react-icons/si';
 import { IconContext } from "react-icons";
 
 
@@ -48,7 +48,7 @@ const FooterSec2 = () => {
                     <BsTwitter className='footerSec2-icon' />
                     <FaFacebookF className='footerSec2-icon'/>
                     <ImLinkedin2 className='footerSec2-icon'/>
-                    <FcBookmark className='footerSec2-icon'/>
+                    <SiInstagram className='footerSec2-icon'/>
                 </div>
             </div>
         </div>

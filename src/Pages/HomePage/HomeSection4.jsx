@@ -5,12 +5,14 @@ import Hsec4Icon03 from '../../Assets/HomePageAssets/Hsec4Icon03.png'
 import Hsec4Icon04 from '../../Assets/HomePageAssets/Hsec4Icon04.png'
 import Hsec4Icon05 from '../../Assets/HomePageAssets/Hsec4Icon05.png'
 import { HiArrowNarrowRight } from 'react-icons/hi';
+import Hsec4Circles from '../../Assets/HomePageAssets/Hsec4circles.png'
 
 
 const HomeSection4 = () => {
   return (
     <div className='HomeSection4'>
         <div className='HomeSection4-contents'>
+            <img src={Hsec4Circles} alt="" className='Hsec4Circles'/>
             <div className='HomeSection4-contents-header'>
                 <h2 className='header--2 m-bottom1'>Our Services</h2>
                 <p className='text--1'>Augue nulla turpis consectetur pharetra fames. Fermentum rhoncus lectus condimentum augue. Faucibus a ac urna </p>
