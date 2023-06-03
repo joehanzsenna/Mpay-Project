@@ -6,6 +6,7 @@
 .HomeSection1{
     width: 100%;
     max-width: 1400px;
+    margin: 0 auto;
     height: 120vh;
     /* background: #151518; */
 }
@@ -71,6 +72,8 @@
 
 .HomeSection2{
     /* background-color: red; */
+    max-width: 1400px;
+    margin: 0 auto;
     width: 100%;
     margin-top: 15rem;
 }
@@ -122,7 +125,8 @@
 /* styling for HomeSection3  */
 .HomeSection3{
     width: 100%;
-    margin-top: 5rem;
+    max-width: 1400px;
+    margin: 5rem auto 0;
 }
 .HomeSection3-contents{
     display: grid;
@@ -176,6 +180,8 @@
 /* css for HomeSection4  */
 .HomeSection4{
     width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
 
 }
 .HomeSection4-contents{
@@ -226,6 +232,8 @@
 
 .HomeSection5{
     width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
 }
 .HomeSection5-contents{
     width: 80%;
@@ -261,6 +269,8 @@
 /* css style for HomeSection6  */
 .HomeSection6{
     width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
 
 }
 .HomeSection6-contents{
