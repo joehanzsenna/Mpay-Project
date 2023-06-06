@@ -5,11 +5,13 @@ import imgSec3Hotspot from '../../Assets/HomePageAssets/hotspot.png'
 import imgSec3Watch from '../../Assets/HomePageAssets/watch.png'
 import imgSec3Diamond from '../../Assets/HomePageAssets/diamond.png'
 import imgSec3Bar from '../../Assets/HomePageAssets/bar-Group.png'
+import Hsec3Spirals from '../../Assets/HomePageAssets/Hsec3Spirals.png'
 
 const HomeSection3 = () => {
   return (
     <div className='HomeSection3'>
         <div className='HomeSection3-contents'>
+          <img src={Hsec3Spirals} alt="" className='Hsec3Spirals'/>
             <div className='HomeSection3-contents--1'>
                 <h2 className='header--2 m-bottom1'>Enjoy Enormous Business Promos</h2>
                 <p className='text--1 m-bottom1'>Augue nulla turpis consectetur pharetra fames. Fermentum rhoncus lectus condimentum augue. Faucibus a ac urna tellus purus. Ornare tellus vitae elit est tellus porta malesuada ut arcu.</p>

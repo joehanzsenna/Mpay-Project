@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.PaymentIndex{
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.PaymentIndex-contents{
+    width: 95%;
+    margin: 5rem auto;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    /* background-color: red; */
+}
+.paymentIcons{
+    width: 20rem;
+    height: 6rem;
+    /* font-size: 3rem; */
+}

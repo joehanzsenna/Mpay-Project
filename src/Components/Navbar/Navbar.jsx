@@ -21,7 +21,9 @@ const Navbar = () => {
                 <Link to='/contact' className='linkStyle'>
                   <li>Contact Us</li>
                 </Link>
-                <button className='btn--1'>Learn More</button>
+                <Link to='/services'>
+                  <button className='btn--1'>Learn More</button>
+                </Link>
             </ul>
         </div>
         
